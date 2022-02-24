@@ -1,0 +1,40 @@
+.music_card{
+    flex-wrap: wrap;
+    background-color: #181818;
+    border-radius: 4px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 7px;
+    padding-bottom: 30px;
+    margin: 20px;
+    
+}
+.music_card:hover{
+    background-color: #1d1c1c;
+};
+
+.wrapping{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card_content{
+    color: black;
+}
+.song-name{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2;
+}
+p{
+    color: white;
+    background-color: #181818;
+    line-height: 2;
+};
+
+
+
+
+

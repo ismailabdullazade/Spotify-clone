@@ -1,0 +1,100 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+    padding: 20px;
+    height: 45px;
+    width: 100%;
+    background-color: #161515;
+    
+  }
+  
+ .footer-player .MuiSlider-root{
+   color: grey;
+ }
+ .footer-player .MuiSlider-root :hover{
+   color: green;
+ };
+ 
+
+  .footer__right * .MuiSlider-root {
+    color: grey;
+  }
+  .footer__right * .MuiSlider-root :hover{
+    color: green;
+  }
+  .footer__left {
+    display: flex;
+    align-items: center;
+    color: white;
+    width: 300px;
+    flex: 0.3;  
+    
+  }
+  
+  .footer__green {
+    color: #136b32;
+  }
+  
+  .footer-player{
+    flex: 0.4;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;  */
+    justify-content: center;
+    
+    
+  }
+
+  .footer__center {
+    flex: 0.5;
+    max-width: 300px;
+    padding: 0 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .footer__icon:hover,
+  .footer__green:hover {
+    transition: transform 0.2s ease-in-out;
+    transform: scale(1.2) !important;
+  }
+  
+  .footer__right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    flex: 0.2;
+    padding-right: 50px;
+  }
+  
+  .footer__albumLogo {
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+    object-fit: contain;
+  }
+  
+  .footer__songInfo > h4 {
+    margin-bottom: 5px;
+  }
+  
+  .footer__songInfo > p {
+    font-size: 12px;
+  }
+
+  .favIcon{
+    
+    transition: all ease-out 0.7s;
+  }
+  .favIcon:hover{
+    transform: scale(1.5,1.5);
+  }
+
+  

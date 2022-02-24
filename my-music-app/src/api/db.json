@@ -1,0 +1,53 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "photo":"../photos/Alan-Walker.jpg" ,
+            "title": "NCS",
+            "singer": "Alan Walker",
+            "music": "../music/Suncrown.mp3"
+        },
+        {
+            "id": 2,
+            "photo":"../photos/Miyagi-Panda.jpg" ,
+            "title": "Kosandra",
+            "singer": "Miyagi Andy Panda",
+            "music": "../music/Miyagi-Panda.mp3"
+        },
+        {
+            "id": 3,
+            "photo":"../photos/Chloe.jpg" ,
+            "title": "Dream It Possible",
+            "singer": "Chloe 999",
+            "music": "../music/Dream-Possible.mp3"
+        },
+        {
+            "id": 4,
+            "photo":"../photos/Miyagi-Panda.jpg" ,
+            "title": "Kosandra",
+            "singer": "Miyagi Andy Panda",
+            "music": "../music/Miyagi-Panda.mp3"
+        },
+        {
+            "id": 5,
+            "photo":"../photos/guitar-music.jpg" ,
+            "title": "Shape Of You",
+            "singer": "Ed Sheran",
+            "music": "../music/Shape-You.mp3"
+        },
+        {
+            "id": 6,
+            "photo":"../photos/Alan-Walker.jpg" ,
+            "title": "NCS",
+            "singer": "Alan Walker",
+            "music": "../music/Suncrown.mp3"
+        },
+        {
+            "id": 7,
+            "photo":"../photos/guitar-music.jpg" ,
+            "title": "Shape Of You",
+            "singer": "Ed Sheran",
+            "music": "../music/Shape-You.mp3"
+        }
+    ]
+}
